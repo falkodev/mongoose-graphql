@@ -1,6 +1,6 @@
 {
-  "name": "mongoose-graphql",
-  "version": "0.0.9",
+  "name": "mongoose-graphql-revisited",
+  "version": "1.0.0",
   "description": "Convert a mongoose model to a GraphQL type string",
   "repository": "zipdrug/mongoose-graphql",
   "main": "dist/mongoose-graphql.js",
@@ -13,7 +13,7 @@
     "test": "ava test/**-test.js",
     "test:watch": "npm test -- --watch"
   },
-  "author": "Zipdrug",
+  "author": "falkodev",
   "license": "MIT",
   "files": [
     "lib",
